@@ -1,1 +1,0 @@
-MONGO_URI=mongodb+srv://harshilpadada:<26091997@Hp>@cluster0.0knj96q.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
